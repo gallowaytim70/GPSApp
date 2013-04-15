@@ -1,0 +1,8 @@
+C:\TimSource\GPSApp\GPSApp\bin\Debug\GPSApp.dll
+C:\TimSource\GPSApp\GPSApp\bin\Debug\GPSApp.pdb
+C:\TimSource\GPSApp\GPSApp\bin\Debug\GPSApp.xml
+C:\TimSource\GPSApp\GPSApp\obj\Debug\GPSApp.Resources.resources
+C:\TimSource\GPSApp\GPSApp\obj\Debug\GPSApp.vbproj.GenerateResource.Cache
+C:\TimSource\GPSApp\GPSApp\obj\Debug\GPSApp.dll
+C:\TimSource\GPSApp\GPSApp\obj\Debug\GPSApp.xml
+C:\TimSource\GPSApp\GPSApp\obj\Debug\GPSApp.pdb
